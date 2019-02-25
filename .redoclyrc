@@ -1,7 +1,7 @@
 specFileName: /Users/andresgama/Downloads/petstore.yaml
 apiTitle: spec-poc
 splitSpec: false
-codeSamples: true
+codeSamples: false
 swaggerUI: true
 travis: false
 oasVersion: 3.0.0
